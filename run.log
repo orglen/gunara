@@ -1,0 +1,4 @@
+[INFO][2024-07-15 21:40:23][views.py:32] - 正在使用模型 gpt-3.5-turbo-1106
+[INFO][2024-07-15 22:49:59][views.py:32] - 正在使用模型 gpt-3.5-turbo-1106
+[INFO][2024-07-15 22:50:00][chat_gpt.py:80] - HPPT 200 请求成功 
+[INFO][2024-07-15 22:50:00][views.py:74] - Messages: [{'role': 'system', 'content': '你是一个有用的助手。'}, {'role': 'user', 'content': '你好'}, {'role': 'assistant', 'content': '你好！有什么我可以帮助你的吗？'}]
